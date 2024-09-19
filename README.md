@@ -122,9 +122,9 @@ The purpose of this project is to simplify the distribution and access of study 
 
 1. **Atharva Wange** : https://github.com/atharvawange
 
-2. **Preet Das** : https://github.com/preetdas
-
-3. **Deepraj Patel** : https://github.com/deeprajpatel143
+2. **Deepraj Patel** : https://github.com/deeprajpatel143
+ 
+3. **Preet Das** : https://github.com/preetdas
 
 4. **Manish Kumar Vishwakarma** : https://github.com/manishvishwakar6
 
